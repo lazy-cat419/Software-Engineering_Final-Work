@@ -61,12 +61,8 @@
             <mxPoint x="2" y="29" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SoA14i47H3jGXmkj97EN-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.355;exitY=0.958;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" value="">
+        <mxCell id="SoA14i47H3jGXmkj97EN-14" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.355;exitY=0.958;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="SoA14i47H3jGXmkj97EN-23" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="368.17" y="314.34" />
-              <mxPoint x="179.17000000000002" y="314.34" />
-            </Array>
             <mxPoint x="368.3400000000001" y="258.00399999999996" as="sourcePoint" />
             <mxPoint x="178.5" y="370" as="targetPoint" />
           </mxGeometry>
@@ -154,7 +150,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SoA14i47H3jGXmkj97EN-35" edge="1" parent="1" source="SoA14i47H3jGXmkj97EN-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.502;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;" target="SoA14i47H3jGXmkj97EN-28">
+        <mxCell id="SoA14i47H3jGXmkj97EN-35" edge="1" parent="1" source="SoA14i47H3jGXmkj97EN-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.502;entryY=0.875;entryDx=0;entryDy=0;entryPerimeter=0;" target="SoA14i47H3jGXmkj97EN-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SoA14i47H3jGXmkj97EN-36" connectable="0" parent="SoA14i47H3jGXmkj97EN-35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;电脑落子坐标&lt;/span&gt;" vertex="1">
