@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="hryGj0KzSXnJhMcqTr9-">
-    <mxGraphModel dx="1716" dy="1179" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2054" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,13 +66,13 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SoA14i47H3jGXmkj97EN-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;坐标转换&lt;/font&gt;" vertex="1">
+        <mxCell id="SoA14i47H3jGXmkj97EN-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;P1&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;坐标转换&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="105" width="105" x="100" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="SoA14i47H3jGXmkj97EN-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AI位置评估&lt;/font&gt;" vertex="1">
+        <mxCell id="SoA14i47H3jGXmkj97EN-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;P4&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;AI位置评估&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="100" x="110" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="SoA14i47H3jGXmkj97EN-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AI落子&lt;/font&gt;" vertex="1">
+        <mxCell id="SoA14i47H3jGXmkj97EN-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;P5&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;AI落子&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="100" x="262.56" y="850" as="geometry" />
         </mxCell>
         <mxCell id="SoA14i47H3jGXmkj97EN-60" edge="1" parent="1" source="SoA14i47H3jGXmkj97EN-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.34;entryY=1.051;entryDx=0;entryDy=0;entryPerimeter=0;" target="SoA14i47H3jGXmkj97EN-50">
@@ -85,7 +85,7 @@
             <mxPoint x="9" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SoA14i47H3jGXmkj97EN-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;胜负判断&lt;/font&gt;" vertex="1">
+        <mxCell id="SoA14i47H3jGXmkj97EN-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;P6&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;胜负判断&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="100" x="490.06" y="940" as="geometry" />
         </mxCell>
         <mxCell id="SoA14i47H3jGXmkj97EN-27" parent="1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
@@ -127,7 +127,7 @@
             <mxPoint x="-1" y="-25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SoA14i47H3jGXmkj97EN-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;悔棋处理&lt;/font&gt;" vertex="1">
+        <mxCell id="SoA14i47H3jGXmkj97EN-41" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;P8&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;悔棋处理&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="100" x="74.03" y="1010" as="geometry" />
         </mxCell>
         <mxCell id="SoA14i47H3jGXmkj97EN-49" parent="1" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" value="" vertex="1">
@@ -169,10 +169,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SoA14i47H3jGXmkj97EN-64" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;游戏画面渲染&lt;/font&gt;" vertex="1">
+        <mxCell id="SoA14i47H3jGXmkj97EN-64" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;P7&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;游戏画面渲染&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="122" width="122" x="664.0300000000001" y="241" as="geometry" />
         </mxCell>
-        <mxCell id="SoA14i47H3jGXmkj97EN-74" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;玩家落子&lt;/font&gt;" vertex="1">
+        <mxCell id="SoA14i47H3jGXmkj97EN-74" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;P3&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;玩家落子&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="105" width="105" x="362.56" y="270" as="geometry" />
         </mxCell>
         <mxCell id="SoA14i47H3jGXmkj97EN-78" edge="1" parent="1" source="SoA14i47H3jGXmkj97EN-74" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.625;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="SoA14i47H3jGXmkj97EN-27">
@@ -193,7 +193,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SoA14i47H3jGXmkj97EN-84" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;合法性判断&lt;/span&gt;" vertex="1">
+        <mxCell id="SoA14i47H3jGXmkj97EN-84" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;P2&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;合法性判断&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="105" width="105" x="107.5" y="363" as="geometry" />
         </mxCell>
       </root>
