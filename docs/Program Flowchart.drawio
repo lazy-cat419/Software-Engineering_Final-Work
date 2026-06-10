@@ -7,43 +7,61 @@
         <mxCell id="LBzLqDpE-ghOYlSVNWWL-11" edge="1" parent="1" source="LBzLqDpE-ghOYlSVNWWL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LBzLqDpE-ghOYlSVNWWL-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LBzLqDpE-ghOYlSVNWWL-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;游戏是否结束？&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="150" x="215" y="210" as="geometry" />
+        <mxCell id="LBzLqDpE-ghOYlSVNWWL-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;游戏是否结束&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="219" y="180" as="geometry" />
         </mxCell>
         <mxCell id="LBzLqDpE-ghOYlSVNWWL-5" edge="1" parent="1" source="LBzLqDpE-ghOYlSVNWWL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="LBzLqDpE-ghOYlSVNWWL-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LBzLqDpE-ghOYlSVNWWL-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;初始化棋盘数据&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;初始化游戏状态&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="120" x="230" y="110" as="geometry" />
+        <mxCell id="LBzLqDpE-ghOYlSVNWWL-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;初始化棋盘数据&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;和游戏状态&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="234" y="80" as="geometry" />
         </mxCell>
         <mxCell id="LBzLqDpE-ghOYlSVNWWL-8" edge="1" parent="1" source="LBzLqDpE-ghOYlSVNWWL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LBzLqDpE-ghOYlSVNWWL-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LBzLqDpE-ghOYlSVNWWL-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;开始&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="234" y="20" as="geometry" />
+          <mxGeometry height="40" width="120" x="234" y="10" as="geometry" />
         </mxCell>
         <mxCell id="LBzLqDpE-ghOYlSVNWWL-9" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;接受玩家鼠标点击&lt;/font&gt;" vertex="1">
-          <mxGeometry height="60" width="164" x="208" y="320" as="geometry" />
+          <mxGeometry height="60" width="164" x="212" y="280" as="geometry" />
         </mxCell>
         <mxCell id="LBzLqDpE-ghOYlSVNWWL-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="N" vertex="1">
-          <mxGeometry height="30" width="60" x="290" y="280" as="geometry" />
+          <mxGeometry height="30" width="60" x="294" y="250" as="geometry" />
         </mxCell>
         <mxCell id="LBzLqDpE-ghOYlSVNWWL-16" edge="1" parent="1" source="LBzLqDpE-ghOYlSVNWWL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LBzLqDpE-ghOYlSVNWWL-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LBzLqDpE-ghOYlSVNWWL-13" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;是否触发悔棋&lt;/font&gt;" vertex="1">
-          <mxGeometry height="70" width="150" x="215" y="420" as="geometry" />
+          <mxGeometry height="70" width="150" x="219" y="370" as="geometry" />
         </mxCell>
         <mxCell id="LBzLqDpE-ghOYlSVNWWL-14" edge="1" parent="1" source="LBzLqDpE-ghOYlSVNWWL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="LBzLqDpE-ghOYlSVNWWL-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LBzLqDpE-ghOYlSVNWWL-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="坐标转换处理" vertex="1">
-          <mxGeometry height="50" width="120" x="230" y="530" as="geometry" />
+          <mxGeometry height="50" width="120" x="234" y="470" as="geometry" />
         </mxCell>
         <mxCell id="LBzLqDpE-ghOYlSVNWWL-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="N" vertex="1">
-          <mxGeometry height="30" width="60" x="280" y="490" as="geometry" />
+          <mxGeometry height="30" width="60" x="294" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="LBzLqDpE-ghOYlSVNWWL-22" edge="1" parent="1" source="LBzLqDpE-ghOYlSVNWWL-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LBzLqDpE-ghOYlSVNWWL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LBzLqDpE-ghOYlSVNWWL-18" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;坐标是否合法&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="150" x="219" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="LBzLqDpE-ghOYlSVNWWL-20" edge="1" parent="1" source="LBzLqDpE-ghOYlSVNWWL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="LBzLqDpE-ghOYlSVNWWL-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LBzLqDpE-ghOYlSVNWWL-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;玩家落子加工&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="234" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="LBzLqDpE-ghOYlSVNWWL-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Y" vertex="1">
+          <mxGeometry height="30" width="60" x="294" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="LBzLqDpE-ghOYlSVNWWL-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;更新棋盘数据&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="234" y="730" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
