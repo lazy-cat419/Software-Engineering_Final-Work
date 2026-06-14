@@ -4,35 +4,37 @@
 
 This repository contains the source code and technical documentation for the **Software Engineering Final Project**.
 
-The project is a **Gomoku (Five-in-a-Row)** game developed in **C++ with Visual Studio 2022**. It supports Human vs AI gameplay and demonstrates the software engineering process from system design to implementation.
+The project implements a **Gomoku (Five-in-a-Row)** game developed in **C++** using **Visual Studio 2022**. It supports Human vs AI gameplay with a graphical user interface.
 
 ---
 
-## Features
-
-* Human vs AI gameplay
-* Graphical user interface
-* Win detection
-* Score recording
-* Game restart
-* Simple AI decision-making
-
----
-
-## Project Structure
+## Repository Structure
 
 ```text
-.
-├── docs/      # Technical documentation
-├── src/       # Source code
+Software-Engineering_Final-Work
+│
+├── Gangbo Game/        # Source code
+├── docs/               # Technical documentation
+├── Gangbo Game.sln     # Visual Studio solution
 └── README.md
 ```
 
 ---
 
+## Features
+
+- Human vs AI gameplay
+- Graphical user interface
+- Win detection
+- Game restart
+- Basic AI opponent
+- Score recording
+
+---
+
 ## Technical Documentation
 
-The `docs` folder contains the following documents:
+The `docs` folder contains:
 
 1. Software Requirements Analysis
 2. System Structure Diagram
@@ -44,9 +46,18 @@ The `docs` folder contains the following documents:
 
 ## Development Environment
 
-* IDE: Visual Studio 2022
-* Language: C++
-* Platform: Windows
+- Language: C++
+- IDE: Visual Studio 2022
+- Platform: Windows
+- Graphics Library: EasyX
+
+---
+
+## Build & Run
+
+1. Open `Gangbo Game.sln` with Visual Studio 2022.
+2. Build the solution (`Ctrl + Shift + B`).
+3. Run the project (`F5`).
 
 ---
 
