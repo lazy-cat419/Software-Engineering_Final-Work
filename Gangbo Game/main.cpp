@@ -71,12 +71,12 @@ void drawControlPanel() {
 	setfillcolor(RGB(235, 235, 235));
 	setlinecolor(RGB(180, 180, 180));
 	fillroundrect(hX1, hY1, hX2, hY2, 5, 5);
-	settextcolor(RGB(50, 50, 50)); // 按钮内部使用深灰色文字
+	settextcolor(RGB(50, 50, 50)); 
 
 	TCHAR hText[] = _T("悔棋");
 	int hTextW = textwidth(hText);
 	int hTextH = textheight(hText);
-	outtextxy(hX1 + (220 - hTextW) / 2, hY1 + (50 - hTextH) / 2, hText); // 绝对居中公式
+	outtextxy(hX1 + (220 - hTextW) / 2, hY1 + (50 - hTextH) / 2, hText); // 居中
 
 	// [开始] 按钮
 	int bX1 = 530, bY1 = 250;
@@ -150,7 +150,8 @@ int main() {
 					aiScore++;
 					MessageBox(GetHWnd(), _T("AI获胜"), _T("对局结束"), MB_OK);
 					board.initBoard();
-					gameHistory.clear(); // 清空账本
+					gameHistory.clear(); // 清空记录
+
 					undoCount = 0;
 					g_gameStatus = STATUS_WAITING;
 				}
@@ -161,12 +162,6 @@ int main() {
 		}
 
 		FlushBatchDraw();
-
-		// 监听按键 Esc 退出
-		if (_kbhit()) {
-			char ch = _getch();
-			if (ch == 27) isGameOver = true;
-		}
 
 		// 消息处理
 		ExMessage msg;
