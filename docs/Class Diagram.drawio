@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1215" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1201" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="zkfFHV4jXpPFQw0GAbJ--6" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" value="ChessBoard" vertex="1">
-          <mxGeometry height="270" width="390" x="30" y="760" as="geometry">
+          <mxGeometry height="270" width="390" x="20" y="20" as="geometry">
             <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -39,8 +39,11 @@
         <mxCell id="HBTNYWOR6v0eBRnPvMGi-8" parent="zkfFHV4jXpPFQw0GAbJ--6" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="+ checkWin(x:int, y:int, color:int) : bool" vertex="1">
           <mxGeometry height="26" width="390" y="242" as="geometry" />
         </mxCell>
+        <mxCell id="HBTNYWOR6v0eBRnPvMGi-73" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HBTNYWOR6v0eBRnPvMGi-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=classic;endFill=1;" target="HBTNYWOR6v0eBRnPvMGi-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HBTNYWOR6v0eBRnPvMGi-10" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" value="Game" vertex="1">
-          <mxGeometry height="430" width="250" x="30" y="190" as="geometry">
+          <mxGeometry height="430" width="250" x="440" y="20" as="geometry">
             <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -93,7 +96,7 @@
           <mxGeometry height="26" width="250" y="398" as="geometry" />
         </mxCell>
         <mxCell id="HBTNYWOR6v0eBRnPvMGi-37" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" value="GameAI" vertex="1">
-          <mxGeometry height="170" width="420" x="340" y="190" as="geometry">
+          <mxGeometry height="170" width="420" x="370" y="680" as="geometry">
             <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -116,7 +119,7 @@
           <mxGeometry height="26" width="420" y="138" as="geometry" />
         </mxCell>
         <mxCell id="HBTNYWOR6v0eBRnPvMGi-55" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" value="ChessStep" vertex="1">
-          <mxGeometry height="110" width="90" x="350" y="430" as="geometry">
+          <mxGeometry height="110" width="90" x="130" y="390" as="geometry">
             <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -130,7 +133,7 @@
           <mxGeometry height="26" width="90" y="78" as="geometry" />
         </mxCell>
         <mxCell id="HBTNYWOR6v0eBRnPvMGi-63" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontSize=14;" value="GameStatus" vertex="1">
-          <mxGeometry height="160" width="100" x="550" y="430" as="geometry">
+          <mxGeometry height="160" width="100" x="200" y="540" as="geometry">
             <mxRectangle height="26" width="160" x="130" y="380" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -148,6 +151,15 @@
         </mxCell>
         <mxCell id="HBTNYWOR6v0eBRnPvMGi-68" parent="HBTNYWOR6v0eBRnPvMGi-63" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="GAME_OVER" vertex="1">
           <mxGeometry height="26" width="100" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="HBTNYWOR6v0eBRnPvMGi-71" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HBTNYWOR6v0eBRnPvMGi-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=diamond;endFill=1;" target="HBTNYWOR6v0eBRnPvMGi-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HBTNYWOR6v0eBRnPvMGi-72" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HBTNYWOR6v0eBRnPvMGi-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=-0.308;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=diamond;endFill=1;" target="HBTNYWOR6v0eBRnPvMGi-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HBTNYWOR6v0eBRnPvMGi-74" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HBTNYWOR6v0eBRnPvMGi-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.269;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" target="HBTNYWOR6v0eBRnPvMGi-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
