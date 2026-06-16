@@ -33,17 +33,25 @@
         <mxCell id="FT644iExh8YyQrtBqDw--17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="AI计算并落子" vertex="1">
           <mxGeometry height="60" width="120" x="540" y="330" as="geometry" />
         </mxCell>
+        <mxCell id="fBbN4jeV9DzmqmJLsIvL-12" edge="1" parent="1" source="FT644iExh8YyQrtBqDw--18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="FT644iExh8YyQrtBqDw--19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fBbN4jeV9DzmqmJLsIvL-14" connectable="0" parent="fBbN4jeV9DzmqmJLsIvL-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1067" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FT644iExh8YyQrtBqDw--18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="暂停游戏" vertex="1">
-          <mxGeometry height="60" width="120" x="180" y="370" as="geometry" />
+          <mxGeometry height="60" width="120" x="210" y="410" as="geometry" />
         </mxCell>
         <mxCell id="FT644iExh8YyQrtBqDw--19" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="继续游戏" vertex="1">
-          <mxGeometry height="60" width="120" x="180" y="460" as="geometry" />
+          <mxGeometry height="60" width="120" x="210" y="520" as="geometry" />
         </mxCell>
         <mxCell id="FT644iExh8YyQrtBqDw--20" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="结束游戏" vertex="1">
-          <mxGeometry height="60" width="120" x="180" y="555" as="geometry" />
+          <mxGeometry height="60" width="120" x="210" y="610" as="geometry" />
         </mxCell>
         <mxCell id="FT644iExh8YyQrtBqDw--21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="悔棋" vertex="1">
-          <mxGeometry height="60" width="120" x="180" y="670" as="geometry" />
+          <mxGeometry height="60" width="120" x="240" y="750" as="geometry" />
         </mxCell>
         <mxCell id="fBbN4jeV9DzmqmJLsIvL-1" edge="1" parent="1" source="FT644iExh8YyQrtBqDw--9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="FT644iExh8YyQrtBqDw--16">
           <mxGeometry relative="1" as="geometry" />
