@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="nQLOdTiontIpWhaC8Gtr">
+    <mxGraphModel dx="1403" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eUgtPA5guCisl9I2K3-8-1" parent="1" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" value="客户端计算机&lt;div&gt;Windows PC&lt;/div&gt;" vertex="1">
+          <mxGeometry height="770" width="320" x="254" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="eUgtPA5guCisl9I2K3-8-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="399" y="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
