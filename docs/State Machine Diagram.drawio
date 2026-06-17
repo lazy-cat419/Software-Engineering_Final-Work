@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jX24WwS_kxphK9vp5yjp-35" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="100" width="120" x="200" y="740" as="geometry" />
+          <mxGeometry height="100" width="120" x="160" y="750" as="geometry" />
         </mxCell>
         <mxCell id="jX24WwS_kxphK9vp5yjp-36" parent="jX24WwS_kxphK9vp5yjp-35" style="rounded=1;whiteSpace=wrap;html=1;container=0;" value="" vertex="1">
           <mxGeometry height="100" width="120" as="geometry" />
@@ -95,6 +95,47 @@
         </mxCell>
         <mxCell id="jX24WwS_kxphK9vp5yjp-38" parent="jX24WwS_kxphK9vp5yjp-35" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;AI思考&lt;/font&gt;" vertex="1">
           <mxGeometry height="40" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jX24WwS_kxphK9vp5yjp-41" edge="1" parent="1" source="jX24WwS_kxphK9vp5yjp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="jX24WwS_kxphK9vp5yjp-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="490" />
+              <mxPoint x="60" y="825" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jX24WwS_kxphK9vp5yjp-42" connectable="0" parent="jX24WwS_kxphK9vp5yjp-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;玩家成功落子&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0188" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jX24WwS_kxphK9vp5yjp-43" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="100" width="120" x="380" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="jX24WwS_kxphK9vp5yjp-44" parent="jX24WwS_kxphK9vp5yjp-43" style="rounded=1;whiteSpace=wrap;html=1;container=0;" value="" vertex="1">
+          <mxGeometry height="100" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jX24WwS_kxphK9vp5yjp-45" parent="jX24WwS_kxphK9vp5yjp-43" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;container=0;" value="" vertex="1">
+          <mxGeometry height="10" width="120" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jX24WwS_kxphK9vp5yjp-46" parent="jX24WwS_kxphK9vp5yjp-43" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;container=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;游戏暂停&lt;/font&gt;" vertex="1">
+          <mxGeometry height="40" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jX24WwS_kxphK9vp5yjp-47" edge="1" parent="1" source="jX24WwS_kxphK9vp5yjp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;" target="jX24WwS_kxphK9vp5yjp-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jX24WwS_kxphK9vp5yjp-48" connectable="0" parent="jX24WwS_kxphK9vp5yjp-47" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;点击【暂停】&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3029" y="25" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jX24WwS_kxphK9vp5yjp-49" edge="1" parent="1" source="jX24WwS_kxphK9vp5yjp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;curved=1;" target="jX24WwS_kxphK9vp5yjp-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jX24WwS_kxphK9vp5yjp-50" connectable="0" parent="jX24WwS_kxphK9vp5yjp-49" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;点击【继续】&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.1227" y="17" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
