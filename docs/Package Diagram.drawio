@@ -1,0 +1,24 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="3ja0ia60LLvaQhLNNE1Q">
+    <mxGraphModel dx="1201" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m_t-23Mc2zxTwu9dAyW8-1" parent="1" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=120;tabHeight=70;tabPosition=left;html=1;whiteSpace=wrap;" value="" vertex="1">
+          <mxGeometry height="200" width="270" x="170" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="m_t-23Mc2zxTwu9dAyW8-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Main&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;程序入口模块&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="170" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="m_t-23Mc2zxTwu9dAyW8-3" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;main.cpp&lt;/font&gt;" vertex="1">
+          <mxGeometry height="90" width="180" x="215" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="m_t-23Mc2zxTwu9dAyW8-4" parent="m_t-23Mc2zxTwu9dAyW8-3" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
+          <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
