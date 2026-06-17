@@ -144,13 +144,8 @@
         <mxCell id="DP-BkAKwRPAdYNZihOL4-24" parent="1" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;继续游戏？&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="404" y="1030" as="geometry" />
         </mxCell>
-        <mxCell id="6MK7MVILfJrGILVxfE86-10" edge="1" parent="1" source="DP-BkAKwRPAdYNZihOL4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DP-BkAKwRPAdYNZihOL4-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="644" y="840" />
-              <mxPoint x="464" y="840" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="6MK7MVILfJrGILVxfE86-15" edge="1" parent="1" source="DP-BkAKwRPAdYNZihOL4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="DP-BkAKwRPAdYNZihOL4-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DP-BkAKwRPAdYNZihOL4-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;提示重新落子&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="584" y="755" as="geometry" />
