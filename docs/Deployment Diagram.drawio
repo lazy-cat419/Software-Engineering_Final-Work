@@ -1,16 +1,19 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="nQLOdTiontIpWhaC8Gtr">
-    <mxGraphModel dx="890" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1601" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eUgtPA5guCisl9I2K3-8-1" parent="1" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" value="客户端计算机&lt;div&gt;Windows PC&lt;/div&gt;" vertex="1">
+        <mxCell id="eUgtPA5guCisl9I2K3-8-1" parent="1" style="verticalAlign=top;align=left;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;客户端计算机&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Windows PC&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="770" width="320" x="254" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="eUgtPA5guCisl9I2K3-8-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Actor" vertex="1">
+        <mxCell id="eUgtPA5guCisl9I2K3-8-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Player&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="30" x="399" y="60" as="geometry" />
         </mxCell>
-        <mxCell id="AUbpNSzWCbnfAoJ9STS_-2" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="Gobang.exe" vertex="1">
+        <mxCell id="AUbpNSzWCbnfAoJ9STS_-12" edge="1" parent="1" source="AUbpNSzWCbnfAoJ9STS_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AUbpNSzWCbnfAoJ9STS_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AUbpNSzWCbnfAoJ9STS_-2" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Gobang.exe&lt;/font&gt;" vertex="1">
           <mxGeometry height="90" width="180" x="324" y="350" as="geometry" />
         </mxCell>
         <mxCell id="AUbpNSzWCbnfAoJ9STS_-3" parent="AUbpNSzWCbnfAoJ9STS_-2" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
@@ -18,7 +21,10 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AUbpNSzWCbnfAoJ9STS_-4" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="EasyX.dll" vertex="1">
+        <mxCell id="AUbpNSzWCbnfAoJ9STS_-13" edge="1" parent="1" source="AUbpNSzWCbnfAoJ9STS_-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AUbpNSzWCbnfAoJ9STS_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AUbpNSzWCbnfAoJ9STS_-4" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;EasyX.dll&lt;/font&gt;" vertex="1">
           <mxGeometry height="90" width="180" x="324" y="610" as="geometry" />
         </mxCell>
         <mxCell id="AUbpNSzWCbnfAoJ9STS_-5" parent="AUbpNSzWCbnfAoJ9STS_-4" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
@@ -26,12 +32,18 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AUbpNSzWCbnfAoJ9STS_-6" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="Windows.API" vertex="1">
+        <mxCell id="AUbpNSzWCbnfAoJ9STS_-6" parent="1" style="html=1;dropTarget=0;whiteSpace=wrap;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Windows.API&lt;/font&gt;" vertex="1">
           <mxGeometry height="90" width="180" x="324" y="840" as="geometry" />
         </mxCell>
         <mxCell id="AUbpNSzWCbnfAoJ9STS_-7" parent="AUbpNSzWCbnfAoJ9STS_-6" style="shape=module;jettyWidth=8;jettyHeight=4;" value="" vertex="1">
           <mxGeometry height="20" relative="1" width="20" x="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AUbpNSzWCbnfAoJ9STS_-8" edge="1" parent="1" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="AUbpNSzWCbnfAoJ9STS_-2" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="414" y="160" as="sourcePoint" />
+            <mxPoint x="734" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
